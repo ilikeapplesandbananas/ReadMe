@@ -1,4 +1,4 @@
-# README.md
+# README
 [ReadMe.md](https://github.com/user-attachments/files/25482161/ReadMe.md)
 # 💫 About Me:
 Aspiring SWE<br>Freelance Web Developer<br>I also do content creation part-time! xD
